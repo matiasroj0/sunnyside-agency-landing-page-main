@@ -393,7 +393,7 @@ footer img {
     }
     
     .logo {
-        width: 12%;
+        width: 11%;
     }
     
     nav {
@@ -404,7 +404,7 @@ footer img {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 1.1rem 1rem;
+        padding: 1rem 1rem;
     }
     
     .sidenav {
@@ -442,6 +442,7 @@ footer img {
       
     #nav-contact {
         background-color: var(--white);
+        margin-bottom: 0;
     }
     
     #nav-contact:hover {
@@ -534,10 +535,12 @@ footer img {
     
     .graphic-design {
         background-image: url(/images/desktop/image-graphic-design.jpg);
+        background-position: center;
     }
     
     .photography {
         background-image: url(/images/desktop/image-photography.jpg);
+        background-position: center;
     }
     
     .client-testimonials-section {
