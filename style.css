@@ -48,11 +48,6 @@ p, h1, h2, h3, h4, h5, h6 {
 
 /*  */
 
-/* 
-font-family: 'Barlow', sans-serif;
-font-family: 'Fraunces', serif;
- */
-
 body {
     font-family: 'Barlow', sans-serif;
     text-align: center;
@@ -68,6 +63,7 @@ header {
     background-size: cover;
     background-position: center;
     padding-bottom: 7rem;
+    height: 100vh;
 }
 
 .logo {
