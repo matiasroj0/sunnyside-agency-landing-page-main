@@ -128,6 +128,7 @@ nav {
 #nav-contact {
     background-color: var(--yellow);
     padding: .7rem 2rem;
+    margin-bottom: 1rem;
     color:black;
     border-radius: 1.5rem;
     font-size: .9rem;
