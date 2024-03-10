@@ -4,7 +4,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Live Site URL: https://splendid-choux-462a8d.netlify.app/
+- Live Site URL: https://matiasrojo-sunnyside-landing-page.netlify.app/
 
 ### Screenshot
 
